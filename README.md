@@ -1,4 +1,4 @@
 # hanoisolver
 towers of hanoi solver
 
-simple solver idk
+have fun idk what else to do 
