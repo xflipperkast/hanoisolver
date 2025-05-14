@@ -26,3 +26,5 @@ Perfect for learning recursion or just enjoying a classic brain teaser — visua
 - No external libraries required (uses built-in `tkinter`)
 
 ### ▶️ Run It
+
+if you have any improvements you can add it i most likely will merge it
